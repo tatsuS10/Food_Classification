@@ -1,6 +1,6 @@
 # Food Classification
 
-This model tells the users the names of food in the photo such as burger, pizza, or sushi, by using image classification.This model may be especially helpful for tourists to understand foods even if they don’t know that food.This AI was created because I struggled with understanding the names of foods when traveling abroad, this AI helps me do that.
+This model tells the users the names of food in the photo such as burger, pizza, or sushi, by using image classification.This model may be especially helpful for tourists to understand food even if they don’t know that food.This AI was created because I struggled with understanding the names of foods when traveling abroad, this AI helps me do that.
 ![add image descrition here](direct image link here)
 
 ## The Algorithm
