@@ -11,7 +11,7 @@ This model uses imagenet and resnet-18.  It uses imagenet to train the models. R
 
 ## Running this project
 
-1. 
+1. Make sure to have resnet18.onnx and labels.txt from this project downloaded on the Jetson Nano
 2. 
 
 [View a video explanation here](video link)
