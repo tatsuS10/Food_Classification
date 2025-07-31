@@ -26,7 +26,9 @@ This model uses imagenet and resnet-18.  It uses imagenet to train the models. R
 
 --labels: change the labels by tyoing its path
 
---input_blob: name of the input blob
+--input_blob: change name of the input blob
+
+--output_blob: change name of the input blob
 
 
 [View a video explanation here](video link)
