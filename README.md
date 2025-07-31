@@ -14,7 +14,7 @@ This model uses imagenet and resnet-18.  It uses imagenet to train the models. R
 
 1. Make sure that both the Jetson Inference library and Python3 are installed on your Jetson Nano
 2. Download the resnet18.onnx and the labels.txt from this project.
-3. To classify an image, type: python3 Food_Classification.py 001.jpg test.jpg  (You can change the input file by changing "001.jpg" to your image's path and you can also change the output filename by changing "test.jpg" as you want.)
+3. To classify an image, type: python3 Food_Classification.py 001.jpg test.jpg  ( You can change the input file by changing "001.jpg" to your image's path and you can also change the output filename by changing "test.jpg" as you want.)
 4. Get the result in terminal and the result image in test.jpg ( you typed in upper one).
 
 ## Options
