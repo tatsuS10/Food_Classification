@@ -10,15 +10,16 @@ This project was developed using Jetson Nano. It uses a re-trained resnet18 mode
 
 Food-Classification.py is python file which has custom code to determine foods of an inputted image. This python file work by three sections. First, this model gets arguments from user and get image and network. In the second section, It classify the image by using re-trained model. Lastly, it make a result image and save it as an output_file which user told.
 
-This model uses imagenet to train the model to classify foods accurately
+This model uses imagenet to train the model to classify foods accurately.
 
 
 ## Running this project
 
 1. Make sure that both the Jetson Inference library and Python3 are installed on your Jetson Nano
-2. Download the resnet18.onnx and the labels.txt from this project.
-3. To classify an image, type: python3 Food_Classification.py 001.jpg test.jpg  ( You can change the input file by changing "001.jpg" to your image's path and you can also change the output filename by changing "test.jpg" as you want.)
-4. Get the result in terminal and the result image in test.jpg ( you typed in upper one).
+2. Download the Food_Classification file which contains resnet18.onnx and the labels.txt from this project
+3. Make sure to lotate in ~/Food_Classification
+4. To classify an image, type: python3 Food_Classification.py 001.jpg test.jpg  ( You can change the input file by changing "001.jpg" to your image's path and you can also change the output filename by changing "test.jpg" as you want)
+5. Get the result in terminal and the result image in test.jpg ( you typed in upper one)
 
 ## Options
 
