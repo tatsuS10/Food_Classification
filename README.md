@@ -11,7 +11,8 @@ This model uses imagenet and resnet-18.  It uses imagenet to train the models. R
 
 ## Running this project
 
-1. Make sure to have resnet18.onnx and labels.txt from this project downloaded on the Jetson Nano
-2. 
+1. Make sure that both the Jetson Inference library and Python3 are installed on your Jetson Nano
+2. Download the resnet18.onnx and the labels.txt from this project.
+3.
 
 [View a video explanation here](video link)
