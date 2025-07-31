@@ -19,7 +19,9 @@ This model uses imagenet and resnet-18.  It uses imagenet to train the models. R
 
 ## Options
 
---models :change the custom models
---
+--model: change the custom model by typing its path
+--labels: change the labels by tyoing its path
+--input_blob: name of the input blob
+
 
 [View a video explanation here](video link)
