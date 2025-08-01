@@ -18,6 +18,8 @@ Food-Classification.py is python file which has custom code to determine foods o
 4. To classify an image, type: python3 Food_Classification.py image.jpg test.jpg  ( You can change the input file by changing "image.jpg" to your image's path and you can also change the output filename by changing "test.jpg" as you want)
 5. Get the result in terminal and the result image in test.jpg ( you typed in upper one)
 
+My demonstration video: https://youtu.be/YKZm_kSHmxM
+
 ## Options
 
 --model: change the custom model by typing its path
@@ -27,5 +29,3 @@ Food-Classification.py is python file which has custom code to determine foods o
 --input_blob: change name of the input blob
 
 --output_blob: change name of the input blob
-
-My demonstration video:https://youtu.be/YKZm_kSHmxM
