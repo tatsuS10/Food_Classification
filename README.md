@@ -9,6 +9,7 @@ This model tells the users the names of food in the photo such as burger, pizza,
 This project was developed using Jetson Nano. It uses a re-trained resnet18 model whose dataset consists of many foods images, each labelled with its food name. When we run it, we use the python file named Food-Classification.py. 
 
 Food-Classification.py is python file which has custom code to determine foods of an inputted image. This python file work by three sections.
+
 First, this model gets arguments such as input file, output filename, labels name and model path from user. 
 
 <img width="822" height="203" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/e3f47969-efc4-42bc-8655-80b0664e5e3f" />
