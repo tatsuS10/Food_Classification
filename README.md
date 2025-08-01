@@ -32,6 +32,8 @@ My demonstration video: https://youtu.be/YKZm_kSHmxM
 
 ## Options
 
+You can change following things by these codes.
+
 --model: change the custom model by typing its path
 
 --labels: change the labels by tyoing its path
